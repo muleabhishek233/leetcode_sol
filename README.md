@@ -22,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0009-palindrome-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/muleabhishek233/leetcode_sol/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/muleabhishek233/leetcode_sol/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
