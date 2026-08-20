@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0009-palindrome-number) |
 | [1025-divisor-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/1025-divisor-game) |
+| [2119-a-number-after-a-double-reversal](https://github.com/muleabhishek233/leetcode_sol/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/muleabhishek233/leetcode_sol/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |
