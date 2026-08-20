@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0009-palindrome-number) |
+| [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muleabhishek233/leetcode_sol/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/muleabhishek233/leetcode_sol/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -36,13 +37,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/1025-divisor-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
