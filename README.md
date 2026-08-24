@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muleabhishek233/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muleabhishek233/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muleabhishek233/leetcode_sol/tree/master/2119-a-number-after-a-double-reversal) |
@@ -57,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
