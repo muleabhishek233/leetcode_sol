@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muleabhishek233/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/muleabhishek233/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muleabhishek233/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/muleabhishek233/leetcode_sol/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
