@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/muleabhishek233/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muleabhishek233/leetcode_sol/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/muleabhishek233/leetcode_sol/tree/master/1025-divisor-game) |
