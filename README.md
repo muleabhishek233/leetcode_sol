@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muleabhishek233/leetcode_sol/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/muleabhishek233/leetcode_sol/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/muleabhishek233/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muleabhishek233/leetcode_sol/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/1480-running-sum-of-1d-array) |
