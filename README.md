@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/muleabhishek233/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/muleabhishek233/leetcode_sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/muleabhishek233/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/muleabhishek233/leetcode_sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/muleabhishek233/leetcode_sol/tree/master/0283-move-zeroes) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/muleabhishek233/leetcode_sol/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/muleabhishek233/leetcode_sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muleabhishek233/leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/muleabhishek233/leetcode_sol/tree/master/0268-missing-number) |
 ## Greedy
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/muleabhishek233/leetcode_sol/tree/master/0058-length-of-last-word) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/muleabhishek233/leetcode_sol/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/muleabhishek233/leetcode_sol/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
